@@ -1,0 +1,5 @@
+Run the vidly project:
+
+-> open cmd in vidly - backend folder
+-> run the command "node seed.js"
+-> run the command "node index.js"
